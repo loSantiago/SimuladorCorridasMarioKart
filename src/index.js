@@ -165,7 +165,7 @@ async function PlayRaceEngine(character1, character2) {
 async function DeclareWinner(character1, character2) {
     console.log("🥇🥇🥇 RESULTADO FINAL 🥇🥇🥇");
     console.log(`⭐ ${character1.Nome}: ${character1.Pontos} ponto(s)`);
-    console.log(`⭐ ${character2.Nome}: ${character2.Pontos} pontos(s)`);
+    console.log(`⭐ ${character2.Nome}: ${character2.Pontos} ponto(s)`);
 
     //Verifica o vencedor!
     if(character1.Pontos > character2.Pontos) {
