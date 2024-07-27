@@ -1,0 +1,11 @@
+{
+  "name": "Simulador-Corrida-MarioKart",
+  "version": "0.0.1",
+  "description": "Esse é o meu primeiro projeto em NodeJS pela DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel H.",
+  "license": "ISC"
+}
